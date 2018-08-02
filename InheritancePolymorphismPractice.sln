@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePolymorphismPractice", "InheritancePolymorphismPractice\InheritancePolymorphismPractice.csproj", "{4EB7EA29-49E1-40B5-BD02-C9BC82D962E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePolymorphismPractice.Tests", "InheritancePolymorphismPractice.Tests\InheritancePolymorphismPractice.Tests.csproj", "{516BEF34-A14B-4541-AE64-2E9C012FF8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB7EA29-49E1-40B5-BD02-C9BC82D962E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB7EA29-49E1-40B5-BD02-C9BC82D962E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB7EA29-49E1-40B5-BD02-C9BC82D962E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB7EA29-49E1-40B5-BD02-C9BC82D962E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516BEF34-A14B-4541-AE64-2E9C012FF8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516BEF34-A14B-4541-AE64-2E9C012FF8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516BEF34-A14B-4541-AE64-2E9C012FF8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516BEF34-A14B-4541-AE64-2E9C012FF8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E57AF25-CAC8-43D5-BBB3-A31E24F28D54}
+	EndGlobalSection
+EndGlobal

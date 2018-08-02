@@ -1,0 +1,7 @@
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\bin\Debug\InheritancePolymorphismPractice.exe.config
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\bin\Debug\InheritancePolymorphismPractice.exe
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\bin\Debug\InheritancePolymorphismPractice.pdb
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\obj\Debug\InheritancePolymorphismPractice.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\obj\Debug\InheritancePolymorphismPractice.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\obj\Debug\InheritancePolymorphismPractice.exe
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice\obj\Debug\InheritancePolymorphismPractice.pdb

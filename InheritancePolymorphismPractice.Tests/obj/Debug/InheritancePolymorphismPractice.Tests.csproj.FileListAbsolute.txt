@@ -1,0 +1,17 @@
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\InheritancePolymorphismPractice.Tests.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\InheritancePolymorphismPractice.Tests.pdb
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\InheritancePolymorphismPractice.exe
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\InheritancePolymorphismPractice.pdb
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\InheritancePolymorphismPractice.exe.config
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\obj\Debug\InheritancePolymorphismPractice.Tests.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\obj\Debug\InheritancePolymorphismPractice.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\obj\Debug\InheritancePolymorphismPractice.Tests.csproj.CopyComplete
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\obj\Debug\InheritancePolymorphismPractice.Tests.dll
+C:\Users\v-miyan\source\repos\InheritancePolymorphismPractice\InheritancePolymorphismPractice.Tests\obj\Debug\InheritancePolymorphismPractice.Tests.pdb
